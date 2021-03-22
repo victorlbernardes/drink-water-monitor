@@ -1,2 +1,2 @@
 # drink-water-monitor
-App estudo react-native components
+App estudo react-native class components
